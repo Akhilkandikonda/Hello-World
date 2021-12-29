@@ -8,10 +8,6 @@
 
 <h1> Tomorrow we will be having 2nd project which is Kubernetes Project.................... </h1>
 <h1> Saturday we will be having 4th project which is Docker,kubernetes kubernetes Project.................... </h1>
-<h1> Saturday we will be having 4th project which is Docker,kubernetes kubernetes Project.................... </h1>
-<h1> Saturday we will be having 4th project which is Docker,kubernetes kubernetes Project.................... </h1>
-<h1> Saturday we will be having 4th project which is Docker,kubernetes kubernetes Project.................... </h1>
-<h1> Saturday we will be having 4th project which is Docker,kubernetes kubernetes Project.................... </h1>
 
 
 
